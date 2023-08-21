@@ -1,2 +1,2 @@
 # learnerjsk.github.io
-"jsk":"test"
+jsk:test
